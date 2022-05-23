@@ -80,4 +80,6 @@ The outcome is shown below.
 ![Server Running on port 5000](./images/running-server.PNG "Server Running on port 5000")
 
 
+Thereafter, I opened port 5000 from my EC2 Instance, as shown below:
 
+![Opening Port 5000 in EC2 Instance](./images/opening-up-port-5000.PNG "Opening Port 5000 in EC2 Instance")
