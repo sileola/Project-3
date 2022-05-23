@@ -83,3 +83,20 @@ The outcome is shown below.
 Thereafter, I opened port 5000 from my EC2 Instance, as shown below:
 
 ![Opening Port 5000 in EC2 Instance](./images/opening-up-port-5000.PNG "Opening Port 5000 in EC2 Instance")
+
+
+Then, I opened up my browser to access my server’s Public IP or Public DNS name followed by port 5000. The outcome is displayed below:
+
+![Port Opened In Browser](./images/Port%20opened%20in%20browser.PNG "Port Opened In Browser")
+
+
+
+---
+ ### **CREATING ROUTES**
+---
+
+First, I created a folder called **routes** with the command below:
+
+`mkdir routes`
+
+Then I changed directory into the newly created directory
