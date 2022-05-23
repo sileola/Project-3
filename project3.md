@@ -39,14 +39,45 @@ The versions are shown in the image below
 
  I then changed directory into the new folder.
 
- Next, ran the command `npm init` to initialise the project.
+ Next, I ran the command `npm init` to initialise the project.
 
  The package.json file created is shown in the image below:
 
  ![Package json File](./images/package._json-file.PNG "Package json File")
 
- 
 
+---
+ ### **INSTALLATION OF EXPRESSJS**
+---
+
+First, I installed **Express** using npm, by running the following command:
+
+`npm install express`
+
+I then proceeded to create the **index.js** file by running the command:
+
+`touch index.js`
+
+I also installed the **dotenv module** using the command:
+
+`install dotenv`
+
+The outcomes are shown below.
+
+![Installations](./images/installations.PNG)
+
+
+Thereafter, I opened the index.js file using vim and I pasted and saved the code provided into the file, shown below:
+
+![](./images/code.PNG)
+
+Next, I started the server on the terminal using the command below:
+
+`mode index.js `
+
+The outcome is shown below.
+
+![Server Running on port 5000](./images/running-server.PNG "Server Running on port 5000")
 
 
 
