@@ -29,3 +29,24 @@ The versions are shown in the image below
 
 
 
+---
+ ### **APPLICATION CODE SET-UP**
+ ---
+
+ i first created a new directory for the project and named it ToDo, using the command below:
+
+ `mkdir ToDo`
+
+ I then changed directory into the new folder.
+
+ Next, ran the command `npm init` to initialise the project.
+
+ The package.json file created is shown in the image below:
+
+ ![Package json File](./images/package._json-file.PNG "Package json File")
+
+ 
+
+
+
+
