@@ -99,4 +99,14 @@ First, I created a folder called **routes** with the command below:
 
 `mkdir routes`
 
-Then I changed directory into the newly created directory
+Then I changed directory into the newly created directory, and then created an new file with the command beloe:
+
+
+`touch api.js`
+
+I opened the file with the Vim text editor and pasted in the code, as displayed below:
+
+![api_js_file](./images/api-file.PNG)
+
+Then, I saved the file
+
