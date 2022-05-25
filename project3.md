@@ -147,3 +147,14 @@ I signed up for a shared clusters free account on mongoDB and the completed get-
 
 ![](./images/mongoDB.PNG)
 
+Next, in the ToDo directory, I created a file called **.env**, using the command below:
+
+`touch .env`
+
+I opened the file up using vim and I added the connection string to access the database in it, as below:
+
+![](./images/connection-string.PNG)
+
+Next, I updated the **index.js** file with a different code, shown below:
+
+![](./images/updated-indexjs-file.PNG)
