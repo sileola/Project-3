@@ -110,3 +110,20 @@ I opened the file with the Vim text editor and pasted in the code, as displayed 
 
 Then, I saved the file
 
+
+ ### **CREATING MODEL**
+
+ First, I installed the mongoose, using the command:
+
+ `npm install mongoose`
+
+ Then I created a new faolder named '**models**' and changed directory into this newly-created folder.
+
+ Thereafter, I created a file named **'todo.js'**
+
+ I then opened this file in Vim and pasted the code in it, as shown below:
+
+ ![](./images/todojs-file.PNG)
+
+ After this, I saved the file.
+
