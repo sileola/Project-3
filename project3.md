@@ -43,6 +43,7 @@ The versions are shown in the image below
 
  The package.json file created is shown in the image below:
 
+
  ![Package json File](./images/package._json-file.PNG "Package json File")
 
 
@@ -99,7 +100,7 @@ First, I created a folder called **routes** with the command below:
 
 `mkdir routes`
 
-Then I changed directory into the newly created directory, and then created an new file with the command beloe:
+Then I changed directory into the newly created directory, and then created an new file with the command below:
 
 
 `touch api.js`
@@ -127,3 +128,9 @@ Then, I saved the file
 
  After this, I saved the file.
 
+
+Next, I updated the **'api.js'** file by replacing the code inside with the one displayed below:
+
+![](./images/updated-route.PNG)
+
+This file was then saved and exited.
