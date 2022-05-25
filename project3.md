@@ -158,3 +158,16 @@ I opened the file up using vim and I added the connection string to access the d
 Next, I updated the **index.js** file with a different code, shown below:
 
 ![](./images/updated-indexjs-file.PNG)
+
+I started the server using the command:
+
+`node index.js`
+
+The result is shown below:
+
+![Connected Database](./images/connected-database.PNG "Connected Database")
+
+---
+### **Testing Backend Code without Frontend using RESTful API**
+---
+
