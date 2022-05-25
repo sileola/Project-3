@@ -96,6 +96,8 @@ Then, I opened up my browser to access my server’s Public IP or Public DNS nam
  ### **CREATING ROUTES**
 ---
 
+
+
 First, I created a folder called **routes** with the command below:
 
 `mkdir routes`
@@ -112,7 +114,9 @@ I opened the file with the Vim text editor and pasted in the code, as displayed 
 Then, I saved the file
 
 
+---
  ### **CREATING MODEL**
+ ---
 
  First, I installed the mongoose, using the command:
 
@@ -134,3 +138,12 @@ Next, I updated the **'api.js'** file by replacing the code inside with the one 
 ![](./images/updated-route.PNG)
 
 This file was then saved and exited.
+
+---
+### **MONGODB DATABASE**
+---
+
+I signed up for a shared clusters free account on mongoDB and the completed get-started checklist is displayed below:
+
+![](./images/mongoDB.PNG)
+
