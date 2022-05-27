@@ -181,12 +181,15 @@ I installed **Postman**, created a ***POST*** request and set it up as displayed
 
 After this, I sent the request and the response is shown below:
 
-![](./images/POST-REQUEST.PNG)
+![POST Request](./images/POST-REQUEST.PNG "POST Request")
 
 Thereafter, I set-up the ***GET*** request and on sending it, the output is shown below:
 
-![](./images/GET-request.PNG)
+![GET Request](./images/GET-request.PNG "GET Request")
 
 ### **Optional Task:** To Create **DELETE** request:
 
 I set my request up wity its ID 
+
+![DELETE Request](./images/DELETE-REQUEST.PNG "DELETE Request")
+
