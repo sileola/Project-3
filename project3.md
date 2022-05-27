@@ -171,3 +171,8 @@ The result is shown below:
 ### **Testing Backend Code without Frontend using RESTful API**
 ---
 
+I installed **Postman**, created a ***POST*** request and set it up as displayed below:
+
+![](./images/postman1.PNG)
+
+![](./images/postman2.PNG)
