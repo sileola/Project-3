@@ -47,6 +47,8 @@ The versions are shown in the image below
  ![Package json File](./images/package._json-file.PNG "Package json File")
 
 
+
+
 ---
  ### **INSTALLATION OF EXPRESSJS**
 ---
@@ -176,3 +178,15 @@ I installed **Postman**, created a ***POST*** request and set it up as displayed
 ![](./images/postman1.PNG)
 
 ![](./images/postman2.PNG)
+
+After this, I sent the request and the response is shown below:
+
+![](./images/POST-REQUEST.PNG)
+
+Thereafter, I set-up the ***GET*** request and on sending it, the output is shown below:
+
+![](./images/GET-request.PNG)
+
+### **Optional Task:** To Create **DELETE** request:
+
+I set my request up wity its ID 
