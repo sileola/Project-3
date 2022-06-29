@@ -189,7 +189,7 @@ Thereafter, I set-up the ***GET*** request and on sending it, the output is show
 
 ### **Optional Task:** To Create **DELETE** request:
 
-I set my request up wity its ID 
+I set my request up with its ID 
 
 ![DELETE Request](./images/DELETE-REQUEST.PNG "DELETE Request")
 
