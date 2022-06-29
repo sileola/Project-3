@@ -197,3 +197,29 @@ I set my request up with its ID
 ___
 ### **STEP 2: FRONTEND CREATION**
 ___
+
+First, I cd into the ToDo directory and then ran this command:
+
+`npx create-react-app client`
+
+
+
+### **Running a React App**
+Before testing the react app, I installed the following dependencies dependencies:
+
+1. To run more than one command simultaneously from the same terminal window, I installed **Concurrently** using the command below:
+
+`npm install concurrently --save-dev`
+
+The output is displayed below:
+
+![Concurrently Installation](./images/concurrently-installation.PNG "Concurrently Installation")
+
+2. Next, I installed **Nodemon** using the command below:
+
+`npm install nodemon --save-dev`
+
+The output is shown below:
+
+![Nodemon Installation](./images/Nodemon-installation.PNG "Nodemon Installation")
+
