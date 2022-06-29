@@ -193,3 +193,7 @@ I set my request up with its ID
 
 ![DELETE Request](./images/DELETE-REQUEST.PNG "DELETE Request")
 
+
+___
+### **STEP 2: FRONTEND CREATION**
+___
