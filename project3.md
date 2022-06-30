@@ -233,5 +233,9 @@ Next, I opened the **packet.json** file and I updated the needed part as shown b
 
 First, I cd in the 'client' directory
 
-Next, I opened the package.json file in Vim
+Next, I opened the package.json file in Vim and I added the proxy configuration, as shown below:
+
+![](./images/proxy-config.PNG)
+
+
 
