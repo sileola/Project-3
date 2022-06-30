@@ -238,4 +238,8 @@ Next, I opened the package.json file in Vim and I added the proxy configuration,
 ![](./images/proxy-config.PNG)
 
 
+Next, I cd into the 'ToDo' directory and I rad the following command:
+
+`npm run dev`
+
 
