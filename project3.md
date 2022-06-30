@@ -223,3 +223,15 @@ The output is shown below:
 
 ![Nodemon Installation](./images/Nodemon-installation.PNG "Nodemon Installation")
 
+Next, I opened the **packet.json** file and I updated the needed part as shown below:
+
+
+![](./images/updated-package-json.PNG)
+
+
+### **Configuring Proxy in the package.json**
+
+First, I cd in the 'client' directory
+
+Next, I opened the package.json file in Vim
+
