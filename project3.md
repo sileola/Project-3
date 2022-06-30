@@ -249,3 +249,20 @@ Next, I opened TCP port 3000 on my EC2 and I could access it over the internet. 
 
 
 
+### **Creating The React Components**
+
+First, I cd 'client' then I cd to 'src'
+
+Next, I created another folder called 'compoments' by running the command below:
+
+`mkdir components`
+
+Then I cd into the newly created 'compoments' directory and created three new files 'Input.js', 'ListTodo.js' and 'Todo.js.', by running the command below:
+
+`touch Input.js ListTodo.js Todo.js`
+
+
+Next, I opened Input.js file in Vim
+
+
+
