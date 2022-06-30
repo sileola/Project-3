@@ -238,8 +238,14 @@ Next, I opened the package.json file in Vim and I added the proxy configuration,
 ![](./images/proxy-config.PNG)
 
 
-Next, I cd into the 'ToDo' directory and I rad the following command:
+Next, I cd into the 'ToDo' directory and I ran the following command:
 
 `npm run dev`
+
+Next, I opened TCP port 3000 on my EC2 and I could access it over the internet. The output is displayed below:
+
+
+![](./images/react.PNG)
+
 
 
