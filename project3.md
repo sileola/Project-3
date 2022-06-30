@@ -265,4 +265,14 @@ Then I cd into the newly created 'compoments' directory and created three new fi
 Next, I opened Input.js file in Vim
 
 
+I pasted in the code provided and saved it, as shown below:
+
+![](./images/input-js.PNG)
+
+I the cd into 'client' folder and run the followin command to install **Axios**:
+
+`npm install axios`
+
+
+
 
