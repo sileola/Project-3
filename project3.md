@@ -283,3 +283,13 @@ Next, from the ‘components’ directory, I opened the **ListTodo.js** file wit
 
 Next, also from the ‘components’ directory, I opened the **Todo.js** file with Vim and pasted and saved into it the code provided, as shown below:
 
+![](./images/todo-js.PNG)
+
+Next, I cd to 'src' folder then I opened the 'App.js' file in Vim. I then pasted and saved into it the code provide, as shown below:
+
+![](./images/App-js-file.PNG)
+
+
+Next, from the same 'src' folder I opened the 'App.css' file in Vim. I then pasted and saved into it the code provide, as shown below:
+
+![](./images/app-css-file.PNG)
