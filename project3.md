@@ -292,4 +292,14 @@ Next, I cd to 'src' folder then I opened the 'App.js' file in Vim. I then pasted
 
 Next, from the same 'src' folder I opened the 'App.css' file in Vim. I then pasted and saved into it the code provide, as shown below:
 
+
 ![](./images/app-css-file.PNG)
+
+Next, also in the same 'src' folder I opened the 'index.css' file in Vim. I then pasted and saved into it the code provide, as shown below:
+
+![](./images/index-css-file.PNG)
+
+I then moved to the 'ToDo' directory and ran the following command:
+
+`npm run dev`
+
