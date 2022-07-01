@@ -275,4 +275,11 @@ I the cd into 'client' folder and run the followin command to install **Axios**:
 
 
 
+Next, from the ‘components’ directory, I opened the **ListTodo.js** file with Vim and pasted and saved into it the code provided, as shown below:
+
+![](./images/list-js.PNG)
+
+
+
+Next, also from the ‘components’ directory, I opened the **Todo.js** file with Vim and pasted and saved into it the code provided, as shown below:
 
