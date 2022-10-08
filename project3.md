@@ -1,4 +1,4 @@
-# **PROJECT 5: MERN STACK IMPLEMENTATION**
+# **PROJECT 3: MERN STACK IMPLEMENTATION**
 ___
 ### **STEP 1: BACKEND CONFIGURATION**
 ___
@@ -9,7 +9,7 @@ I ran the following commands on my virtual machine to update a list of packages 
 
 `sudo apt upgrade`
 
-Nex, I gott the location of Node.js software from Ubuntu repositories by running the command below:
+Nex, I got the location of Node.js software from Ubuntu repositories by running the command below:
 
 `curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash -`
 
@@ -124,7 +124,7 @@ Then, I saved the file
 
  `npm install mongoose`
 
- Then I created a new faolder named '**models**' and changed directory into this newly-created folder.
+ Then I created a new folder named '**models**' and changed directory into this newly-created folder.
 
  Thereafter, I created a file named **'todo.js'**
 
