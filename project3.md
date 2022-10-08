@@ -9,7 +9,7 @@ I ran the following commands on my virtual machine to update a list of packages 
 
 `sudo apt upgrade`
 
-Nex, I got the location of Node.js software from Ubuntu repositories by running the command below:
+Next, I got the location of Node.js software from Ubuntu repositories by running the command below:
 
 `curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash -`
 
