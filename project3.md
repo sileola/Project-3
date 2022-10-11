@@ -303,3 +303,6 @@ I then moved to the 'ToDo' directory and ran the following command:
 
 `npm run dev`
 
+My To-Do App is now fully functional and it is interactive. This is displayed below:
+
+![My To-Do App](./images/MyToDo.PNG) "My To-Do App")
